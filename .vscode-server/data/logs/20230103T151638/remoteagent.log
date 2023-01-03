@@ -1,0 +1,9 @@
+2023-01-03 15:16:38.879 [info] Extension host agent started.
+2023-01-03 15:16:38.907 [info] Started initializing default profile extensions in extensions installation folder. file:///home/beltcast/.vscode-server/extensions
+2023-01-03 15:16:38.917 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/beltcast/.vscode-server/extensions
+2023-01-03 15:16:39.181 [info] [127.0.0.1][6582a1b2][ManagementConnection] New connection established.
+2023-01-03 15:16:39.357 [info] [127.0.0.1][6c9efe37][ExtensionHostConnection] New connection established.
+2023-01-03 15:16:39.387 [info] [127.0.0.1][6c9efe37][ExtensionHostConnection] <7464> Launched Extension Host Process.
+2023-01-03 15:16:56.171 [info] [127.0.0.1][7f25f7a7][ManagementConnection] New connection established.
+2023-01-03 15:16:56.721 [info] [127.0.0.1][357de5b3][ExtensionHostConnection] New connection established.
+2023-01-03 15:16:56.728 [info] [127.0.0.1][357de5b3][ExtensionHostConnection] <7495> Launched Extension Host Process.
