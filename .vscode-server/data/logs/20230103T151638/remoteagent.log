@@ -7,3 +7,10 @@
 2023-01-03 15:16:56.171 [info] [127.0.0.1][7f25f7a7][ManagementConnection] New connection established.
 2023-01-03 15:16:56.721 [info] [127.0.0.1][357de5b3][ExtensionHostConnection] New connection established.
 2023-01-03 15:16:56.728 [info] [127.0.0.1][357de5b3][ExtensionHostConnection] <7495> Launched Extension Host Process.
+2023-01-03 15:34:07.804 [info] [127.0.0.1][6582a1b2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-03 15:34:07.823 [info] [127.0.0.1][6c9efe37][ExtensionHostConnection] <7464> Extension Host Process exited with code: 0, signal: null.
+2023-01-03 15:37:26.325 [info] [127.0.0.1][7f25f7a7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-03 15:37:26.351 [info] [127.0.0.1][357de5b3][ExtensionHostConnection] <7495> Extension Host Process exited with code: 0, signal: null.
+2023-01-03 15:37:28.408 [info] [127.0.0.1][b4c13c0c][ManagementConnection] New connection established.
+2023-01-03 15:37:28.941 [info] [127.0.0.1][1031b7b1][ExtensionHostConnection] New connection established.
+2023-01-03 15:37:28.945 [info] [127.0.0.1][1031b7b1][ExtensionHostConnection] <7646> Launched Extension Host Process.

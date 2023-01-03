@@ -3,3 +3,18 @@
 2023-01-03 15:16:57.427 [info] Using git "2.34.1" from "git"
 2023-01-03 15:17:08.236 [info] > git rev-parse --show-toplevel [2ms]
 2023-01-03 15:17:08.236 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-03 15:37:14.033 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-03 15:37:14.038 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-01-03 15:37:14.048 [info] Open repository: /home/beltcast
+2023-01-03 15:37:14.059 [info] > git config --get commit.template [5ms]
+2023-01-03 15:37:14.061 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-01-03 15:37:14.071 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-03 15:37:14.080 [info] > git status -z -uall [14ms]
+2023-01-03 15:37:14.098 [info] > git config --get commit.template [5ms]
+2023-01-03 15:37:14.099 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-01-03 15:37:14.107 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-03 15:37:14.113 [info] > git status -z -uall [11ms]
+2023-01-03 15:37:14.367 [info] > git show --textconv :hello.py [5ms]
+2023-01-03 15:37:14.368 [info] > git ls-files --stage -- /home/beltcast/hello.py [2ms]
+2023-01-03 15:37:14.372 [info] > git cat-file -s 00950d9ac57ceeabf45f9120c2615199746d35fb [1ms]
+2023-01-03 15:37:14.578 [info] > git check-ignore -v -z --stdin [2ms]
